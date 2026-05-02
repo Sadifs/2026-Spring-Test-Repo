@@ -74,14 +74,10 @@ Users provide the following details:
 ## Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/your-username/2026-Titanic-Predictor.git  
-cd 2026-Titanic-Predictor  
 
 2. Install dependencies
-pip install -r requirements.txt  
 
 3. Run the application
-streamlit run app.py  
 
 ---
 
