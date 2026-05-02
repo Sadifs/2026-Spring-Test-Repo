@@ -1,4 +1,4 @@
-# Titanic Survival Predictor 🚢
+# Titanic Survival Predictor 
 
 ## Course Information
 **Course:** BSAN 6070 – Machine Learning & Analytics  
